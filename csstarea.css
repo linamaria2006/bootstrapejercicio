@@ -1,0 +1,48 @@
+body {
+  background: green;
+  transition: 0.3s all;
+}
+  .size1 {
+    height: 17vh;
+    background-color: #5b4a3c;
+  }
+  
+  .size2 {
+    height: 78vh;
+    background-color: pink;
+  }
+  
+  .size3 {
+    height: 5vh;
+    background-color: #5b4a3c;
+  }
+
+  .size4 {
+    height: 5vh;
+  }
+  
+  .lm {
+    background-color: #fa9a3f;
+  }
+  
+  .sr2 {
+    height: 5vh;
+    background-color: #c29182;
+  }
+  .sr1 {
+    height: 31.5vh;
+    background-color: #f2f2f2;
+  }
+  
+  .ros {
+    background-color: #c56a7a;
+  }
+  
+  .az {
+    background-color: #0ea3b5;
+  }
+  
+  .colban {
+    color:white;
+  }
+ 
